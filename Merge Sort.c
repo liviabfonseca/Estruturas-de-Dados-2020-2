@@ -1,7 +1,3 @@
-/*
-*Nome: Livia Barbosa Fonseca
-*DRE:118039721
-*/
 #include <stdio.h>
 #include <stdlib.h>
 
